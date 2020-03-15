@@ -1,0 +1,5 @@
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\ExamGradeStudent\ExamGradeStudent\bin\Debug\ExamGradeStudent.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\ExamGradeStudent\ExamGradeStudent\bin\Debug\ExamGradeStudent.pdb
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\ExamGradeStudent\ExamGradeStudent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\ExamGradeStudent\ExamGradeStudent\obj\Debug\ExamGradeStudent.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\ExamGradeStudent\ExamGradeStudent\obj\Debug\ExamGradeStudent.pdb
